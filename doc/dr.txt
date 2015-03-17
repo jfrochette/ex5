@@ -1,0 +1,18 @@
+ex05
+
+18/20
+
+supprimer le dossier test
+
+(-1) 5.1
+
+  var text1 = 'Je suis sportif';
+  var text2 = 'Je porte le #24!';
+
+#1
+true
+true ?
+
+(-1) 5.5
+
+la moitié d'un arbre est manquant

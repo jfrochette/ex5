@@ -18,7 +18,7 @@ bool lettersandspaces (String text){
 
 //2.In a String variable there are sentences with different lengths. Write a function that finds the longest sentence
 
-String longest (text){
+String longest (text) {
   var longestsentence = "";
   for (var sentence in text){
     if (sentence.length > longestsentence.length){
